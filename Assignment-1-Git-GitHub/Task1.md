@@ -3,6 +3,7 @@
 ```bash
 git init
 ```
+![git_init](https://user-images.githubusercontent.com/59412013/195158946-ac003359-cc5d-47f4-9bf7-a08d25e42824.png)
 
 
 ### git status :
