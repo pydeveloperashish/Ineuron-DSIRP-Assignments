@@ -61,6 +61,9 @@ git fetch
 ```bash
 git pull origin main
 ```
+![git-pull](https://user-images.githubusercontent.com/59412013/195160054-136b70d5-9dfd-4b7c-97a9-474e9abe9059.png)
+
+
 
 
 ### git merge :
