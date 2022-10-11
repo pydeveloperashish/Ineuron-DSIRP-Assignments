@@ -3,7 +3,7 @@
 ```bash
 git init
 ```
-![Screenshot](git_init.png)
+![git-init](git_init.png)
 
 
 ### git status :
