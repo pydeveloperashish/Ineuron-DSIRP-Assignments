@@ -65,6 +65,10 @@ git pull origin main
 
 
 
+### git switch :
+```bash
+git switch dev1
+```
 
 ### git merge :
 ```bash
