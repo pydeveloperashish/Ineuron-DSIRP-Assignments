@@ -58,6 +58,7 @@ git checkout dev1
 ```bash
 git fetch
 ```
+![git-fetch](https://user-images.githubusercontent.com/59412013/195169462-8ce22e07-3771-4270-b49c-0e5f1482a3b0.png)
 
 
 ### git pull :
