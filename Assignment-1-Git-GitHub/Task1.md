@@ -69,11 +69,17 @@ git pull origin main
 ```bash
 git switch dev1
 ```
+![git-switch](https://user-images.githubusercontent.com/59412013/195168060-a1d68be7-325a-4de8-953c-20a981e49c4a.png)
+
+
 
 ### git merge :
 ```bash
 git merge dev1
 ```
+![git-merge](https://user-images.githubusercontent.com/59412013/195168108-fd495536-aec7-47e0-9490-30ae5a8a241d.png)
+
+
 
 
 ### git clone :
