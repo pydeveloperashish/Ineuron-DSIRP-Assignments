@@ -10,33 +10,46 @@ git init
 ```bash
 git status
 ```
+![git-status](https://user-images.githubusercontent.com/59412013/195159123-7a8244c9-1f2d-4a40-8a26-fe18f8dbccce.png)
+
+
 
 ### git commit:
 ```bash
 git commit -m "my commit message"
 ```
+![git-commit](https://user-images.githubusercontent.com/59412013/195159191-c5f54960-4c0e-4924-b886-0160169efe99.png)
+
+
 
 ### git push :
 ```bash
 git push origin main
 ```
+![git-push](https://user-images.githubusercontent.com/59412013/195159241-6fef9f0b-8f4a-407b-8f94-e0a970b0e507.png)
 
 
-### git checkout :
+### git log :
 ```bash
-git checkout dev1
+git log
 ```
+![git-log](https://user-images.githubusercontent.com/59412013/195159377-c67f38aa-9638-4cb5-90f3-c2e2878e04bd.png)
+
 
 
 ### git branch :
 ```bash
 git branch -a
 ```
+![git-branch-a](https://user-images.githubusercontent.com/59412013/195159274-7f94b37c-4259-4677-8c7f-a9893f3bd993.png)
 
 
 
 
-
+### git checkout :
+```bash
+git checkout dev1
+```
 
 ### git fetch :
 ```bash
