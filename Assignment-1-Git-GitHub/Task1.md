@@ -50,6 +50,9 @@ git branch -a
 ```bash
 git checkout dev1
 ```
+![git-checkout](https://user-images.githubusercontent.com/59412013/195169226-55374351-1c7a-4b04-9946-de077225cbc9.png)
+
+
 
 ### git fetch :
 ```bash
