@@ -35,10 +35,6 @@ git branch -a
 
 
 
-### git log :
-```bash
-git log
-```
 
 
 ### git fetch :
