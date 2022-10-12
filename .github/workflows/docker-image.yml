@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Build the Docker image
+    - name: Build & Deploy Docker image to DockerHub
       run: |
         docker build -t flask-app-hello-world   Assignment-2-Docker/Task-4/Build-and-Deploy-Docker-Image-to-DockerHub-using-GitHub-Actions
         docker tag flask-app-hello-world:latest devashish07/flask-app-hello-world:latest
