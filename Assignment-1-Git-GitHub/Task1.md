@@ -97,10 +97,12 @@ git clone https://github.com/pydeveloperashish/Ineuron-DSIRP-Assignments.git
 git stash
 ```
 
+
 ### git diff :
 ```bash
 git diff
 ```
+![git-diff](https://user-images.githubusercontent.com/59412013/195246930-0d9576aa-6c48-4346-adc7-e04c1a7a4987.png)
 
 
 
