@@ -28,6 +28,14 @@
 
 
 6. Stash changes
+```bash
+git stash
+```
+![git-stash](https://user-images.githubusercontent.com/59412013/195399374-88b98a14-0f67-4292-b645-92443c5245c3.png)
+
+
+
+
 7. Create a release your package
 8. Setup a Projects Board for your project.
 
