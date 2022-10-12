@@ -1,0 +1,24 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Build & Push Docker image
+      run: | 
+        echo "${{ secrets.DOCKERPW }}" | docker login -u "devashish07" --password-stdin
+        cd /media/dev_ashish/DATA1/Python37/INeuron-Classes/DS-Industrial-Ready-Projects/Assignments/Assignment-2-Docker/Task-4/Build-and-Deploy-Docker-image-to-DockerHub-using-Github-Actions
+        docker build -t devashish07/flask-app-hello-world:v1 .
+        docker push devashish07/flask-app-hello-world:v1
+
+        
