@@ -106,9 +106,9 @@ git diff
 
 
 
-### git revert : :
+### git add:
 ```bash
-git revert
+git add .
 ```
 
 ### git clean :
