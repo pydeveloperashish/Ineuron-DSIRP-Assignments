@@ -117,12 +117,3 @@ git diff
 
 
 
-
-
-### git clean :
-```bash
-git clean
-```
-
-
-
