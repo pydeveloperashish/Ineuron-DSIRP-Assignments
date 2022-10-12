@@ -21,10 +21,15 @@
 
 
 
-8. Add a Dependabot alerts in your github.(for above cases)
-9. Stash changes
-10. Create a release your package
-11. Setup a Projects Board for your project.
+5. Add a Dependabot alerts in your github.(for above cases)
+
+![alert](https://user-images.githubusercontent.com/59412013/195398242-7c8c6954-4c02-439e-81a0-6e0ab8f2a098.jpg)
+
+
+
+6. Stash changes
+7. Create a release your package
+8. Setup a Projects Board for your project.
 
 
 
