@@ -15,9 +15,13 @@ $ docker run -d -p 5000:5000 flask-app-hello-world
 ```
 ![docker-run](https://user-images.githubusercontent.com/59412013/195299956-27ddfadf-cf6f-4124-ab31-d798ca972a93.png)
 
-
-
-
+-
+-
+-
+-
+-
+-
+-
 
 
 
