@@ -40,7 +40,7 @@ docker run -d hello-world
 
 ### check running docker containers:
 ```bash
-docker images
+docker ps
 ```
 ![docker-ps](https://user-images.githubusercontent.com/59412013/195282010-670b8426-2ae8-4e08-a685-c234fbfede3f.png)
 
@@ -49,7 +49,7 @@ docker images
 
 ### check all docker containers:
 ```bash
-docker images
+docker ps -a
 ```
 ![docker-ps-all](https://user-images.githubusercontent.com/59412013/195282054-5dfcc976-7767-436e-a568-1bda59515dba.png)
 
