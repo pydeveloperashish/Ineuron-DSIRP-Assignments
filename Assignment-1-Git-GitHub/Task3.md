@@ -41,7 +41,7 @@ git stash
 ![git-release](https://user-images.githubusercontent.com/59412013/195400081-fcc5ee63-f5bb-4e51-9572-e4bd0442d521.png)
 
 
-9. Setup a Projects Board for your project.
+8. Setup a Projects Board for your project.
 
 
 
