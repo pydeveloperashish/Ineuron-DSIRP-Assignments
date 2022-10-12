@@ -55,31 +55,38 @@ docker ps -a
 
 
 
-### check docker images:
+### Start one or more stopped containers:
 ```bash
-docker images
+docker start
 ```
+![docker-start](https://user-images.githubusercontent.com/59412013/195284145-de06c948-9179-4fce-896f-7b821044eb0c.png)
 
 
 
-### check docker images:
+
+### Stop one or more running containers:
 ```bash
-docker images
+docker stop
 ```
+![docker-stop](https://user-images.githubusercontent.com/59412013/195284168-cf883c74-abd5-441e-b692-d1b5e6a8702e.png)
 
 
 
-### check docker images:
+### Remove one or more containers:
 ```bash
-docker images
+docker rm
 ```
+![docker-rm](https://user-images.githubusercontent.com/59412013/195284219-3d644172-a5cb-49ce-bdb0-96e5a69edd06.png)
 
 
 
-### check docker images:
+### Remove one or more images:
 ```bash
-docker images
+docker rmi
 ```
+![docker-rmi](https://user-images.githubusercontent.com/59412013/195284281-2e1681c0-656b-4548-b96a-caf33d9b556a.png)
+
+
 
 
 
