@@ -11,3 +11,91 @@ docker images
 docker --version
 ```
 ![docker-version](https://user-images.githubusercontent.com/59412013/195280527-d48bb71e-0cfe-42a6-b26c-fc7828ea467d.png)
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
+
+
+
+### check docker images:
+```bash
+docker images
+```
