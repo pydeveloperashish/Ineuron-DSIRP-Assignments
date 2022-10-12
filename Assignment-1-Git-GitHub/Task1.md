@@ -90,6 +90,9 @@ git merge dev1
 ```bash
 git clone https://github.com/pydeveloperashish/Ineuron-DSIRP-Assignments.git
 ```
+![git-clone](https://user-images.githubusercontent.com/59412013/195257280-2a28b4e3-2a7b-4d48-8190-c4ac65d81a19.png)
+
+
 
 ### git add:
 ```bash
