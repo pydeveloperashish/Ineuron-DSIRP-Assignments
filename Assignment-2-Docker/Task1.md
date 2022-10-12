@@ -109,21 +109,19 @@ docker stats
 
 
 
-### check docker images:
+### Fetch the logs of a container:
 ```bash
-docker images
+docker logs container_id
 ```
+![docker-logs](https://user-images.githubusercontent.com/59412013/195287486-676f067b-a1dd-4934-bbba-867fb37b544d.png)
 
 
 
-### check docker images:
+
+
+### Kill one or more running containers:
 ```bash
-docker images
+docker kill container_id
 ```
+![docker-kill](https://user-images.githubusercontent.com/59412013/195287545-c9030323-c9c9-43d5-bb6e-f3e02125a00b.png)
 
-
-
-### check docker images:
-```bash
-docker images
-```
