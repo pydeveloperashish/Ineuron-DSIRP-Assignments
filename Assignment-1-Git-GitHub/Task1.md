@@ -91,11 +91,22 @@ git merge dev1
 git clone https://github.com/pydeveloperashish/Ineuron-DSIRP-Assignments.git
 ```
 
+### git add:
+```bash
+git add .
+```
+![git-add](https://user-images.githubusercontent.com/59412013/195256844-0e5402c2-a9eb-49f6-b192-65176dd67145.png)
+
+
+
 
 ### git stash :
 ```bash
 git stash
 ```
+![git-stash](https://user-images.githubusercontent.com/59412013/195256868-be4968b8-ec23-4fc3-aba4-fcae1e08e527.png)
+
+
 
 
 ### git diff :
@@ -106,10 +117,7 @@ git diff
 
 
 
-### git add:
-```bash
-git add .
-```
+
 
 ### git clean :
 ```bash
