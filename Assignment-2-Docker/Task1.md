@@ -90,17 +90,22 @@ docker rmi
 
 
 
-### check docker images:
+### Rename a container:
 ```bash
-docker images
+docker rename current_name name_you_want_to_give
 ```
+![docker-rename](https://user-images.githubusercontent.com/59412013/195286388-5c6f19b9-986d-4eda-a37e-639acf4986e8.png)
 
 
 
-### check docker images:
+
+### Display a live stream of container(s) resource usage statistics:
 ```bash
-docker images
+docker stats
 ```
+![docker-stats](https://user-images.githubusercontent.com/59412013/195286451-5a467004-2250-4096-b675-2e0ad58cdf7d.png)
+
+
 
 
 
