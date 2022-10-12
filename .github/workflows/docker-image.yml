@@ -2,9 +2,9 @@ name: Docker Image CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ main ]
 
 jobs:
 
@@ -13,10 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    - name: Build & Deploy Docker image to DockerHub
+    - uses: actions/checkout@v1
+    - name: Build & Deploy Docker Image to DockerHub
       run: |
         echo "${{secrets.DockerPW}}" | docker login -u "devashish07" --password-stdin
         docker build -t flask-app-hello-world   Assignment-2-Docker/Task-4/Build-and-Deploy-Docker-Image-to-DockerHub-using-GitHub-Actions
         docker tag flask-app-hello-world:latest devashish07/flask-app-hello-world:latest
+        docker push devashish07/flask-app-hello-world:latest       
 
