@@ -14,28 +14,44 @@ docker --version
 
 
 
-### check docker images:
+### pull docker image:
+```bash
+docker pull hello-world
+```
+![docker-pull](https://user-images.githubusercontent.com/59412013/195281931-252d4556-c8a5-476f-81c8-4675ded03afe.png)
+
+
+
+### run docker image:
+```bash
+docker run hello-world
+```
+![docker-run](https://user-images.githubusercontent.com/59412013/195281962-83a7fdff-ffd8-4af4-aedd-a3a868e8cd37.png)
+
+
+
+### run docker image in detach mode:
+```bash
+docker run -d hello-world
+```
+![docker-run-detach-mode](https://user-images.githubusercontent.com/59412013/195282211-acbedee9-ec4f-42c4-8bde-047d741e00fb.png)
+
+
+
+### check running docker containers:
 ```bash
 docker images
 ```
+![docker-ps](https://user-images.githubusercontent.com/59412013/195282010-670b8426-2ae8-4e08-a685-c234fbfede3f.png)
 
 
-### check docker images:
+
+
+### check all docker containers:
 ```bash
 docker images
 ```
-
-
-### check docker images:
-```bash
-docker images
-```
-
-
-### check docker images:
-```bash
-docker images
-```
+![docker-ps-all](https://user-images.githubusercontent.com/59412013/195282054-5dfcc976-7767-436e-a568-1bda59515dba.png)
 
 
 
