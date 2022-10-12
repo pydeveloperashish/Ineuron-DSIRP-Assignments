@@ -1,7 +1,7 @@
 Build the image using the following command
 
 ```bash
-$ docker build -t simple-flask-app:latest .
+$ docker build -t flask-app-hello-world . 
 ```
 ![docker-build](https://user-images.githubusercontent.com/59412013/195299902-48af43aa-4f82-4980-afc0-9202184c71af.png)
 
@@ -11,7 +11,7 @@ $ docker build -t simple-flask-app:latest .
 Run the Docker container using the command shown below.
 
 ```bash
-$ docker run -d -p 5000:5000 simple-flask-app
+$ docker run -d -p 5000:5000 flask-app-hello-world
 ```
 ![docker-run](https://user-images.githubusercontent.com/59412013/195299956-27ddfadf-cf6f-4124-ab31-d798ca972a93.png)
 
